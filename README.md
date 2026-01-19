@@ -219,8 +219,6 @@ python topsis.py data.csv "1,1,1,1,1" "-,+,+,+,+" result.csv
 TOPSIS-Project/
 │
 ├── topsis.py           # Main program
-├── data.csv            # Sample input
-├── result.csv          # Sample output
 └── README.md           # Documentation
 ```
 
